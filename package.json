@@ -1,0 +1,21 @@
+{
+  "name": "haiku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "haiku.js",
+  "bin": {
+    "haiku": "./haiku.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "commander": "^11.1.0",
+    "openai": "^4.17.3"
+  }
+}
